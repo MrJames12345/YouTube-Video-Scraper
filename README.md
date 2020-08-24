@@ -1,2 +1,3 @@
-# YouTube-Video-Scraper
-Get song tags from a particular YouTube song.
+# REQUIRED LIBRARIES:
+Jsoup (External: https://jsoup.org/download)
+Exceptions (My repo: Exceptions)
